@@ -1,6 +1,6 @@
 import scala.io.StdIn
 
-object DiagonalDifferenceSolution {
+object DiagonalDifference {
   /*
    * Complete the 'diagonalDifference' function below.
    *

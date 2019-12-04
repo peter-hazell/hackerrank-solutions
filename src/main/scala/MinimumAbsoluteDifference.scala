@@ -1,4 +1,4 @@
-object MinimumAbsoluteDifferenceSolution {
+object MinimumAbsoluteDifference {
 
   // Complete the minimumAbsoluteDifference function below.
   def minimumAbsoluteDifference(arr: Array[Int]): Int = {

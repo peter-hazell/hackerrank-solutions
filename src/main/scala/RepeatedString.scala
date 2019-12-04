@@ -1,4 +1,4 @@
-object RepeatedStringSolution {
+object RepeatedString {
 
   // Complete the repeatedString function below.
   def repeatedString(s: String, n: Long): Long = {
